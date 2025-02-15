@@ -50,7 +50,7 @@ const Home = () => {
       <div className="container mx-auto p-4 pt-20">
         {/* Updated Heading Section */}
         <div className="mb-8">
-          <h1 className="text-4xl font-bold mb-2">MaileHereko</h1>
+          <h1 className="text-4xl font-bold mb-2">🎥MaileHereko</h1>
           <p className="text-gray-400">
             List of movies and TV Shows. I Promod Poudel have watched 3! done.<br />
             Explore what I have watched and also feel free to make a suggestion.
